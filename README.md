@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+### Setup
+`npm i`
+That's it!
 
 ### `npm run client`
 Runs the react client (port 3000).
