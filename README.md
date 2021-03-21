@@ -19,7 +19,7 @@ As in my initial technical test, I am using [SWAPI (Star Wars API)](https://swap
 
 This works by creating type definitions for planets, starships and people, along with asynchronous resolvers which will fetch the data from their respective swapi.dev endpoints. These resolvers also accept and apply a search value, which will filter out the results by name.
 
-On the client, I am using ant design to quickly put together navigation, a table and a search bar. I have taken care of making sure the table is responsive.!
+On the client, I am using ant design to quickly put together navigation, a table and a search bar. I have taken care of making sure the table is responsive.
 
 On a more technical note, I have done my best to include a range of hooks, such as: 
 - useState
