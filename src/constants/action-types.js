@@ -1,0 +1,4 @@
+export const APP = {
+    SET_SEARCH_VALUE: "APP_SET_SEARCH_VALUE",
+    SET_SEARCHING: "APP_SET_SEARCHING",
+};
